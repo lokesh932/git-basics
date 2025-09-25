@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this is the change in master branch
-=======
 This is the change in feature branch
->>>>>>> feature
